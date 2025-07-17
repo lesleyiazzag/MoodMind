@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MoodMind</string>
+    <string name="top_bar_title">MoodMind</string>
+    <string name="delete_all">Delete all</string>
+    <string name="add_item">Add</string>
+    <string name="summary">Summary</string>
+    <string name="nothing_to_say">How are you feeling?</string>
+    <string name="category_icon_desc">Category</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="expand_collapse">Expand or close</string>
+    <string name="new_entry">Leave a Thought</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="entry_title">Title</string>
+    <string name="title_error">Title cannot be empty</string>
+    <string name="journal_error">Entry cannot be empty</string>
+    <string name="summary_bar_title">Your MoodMind Summary</string>
+    <string name="journal_entry">How is your day?</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_logo_desc">App Logo</string>
+    <string name="summary_all">All: </string>
+    <string name="cute_bg">Cute background </string>
+    <string name="analyzing_entries">Analyzing your entries…</string>
+    <string name="no_ai_response">No response from AI.</string>
+
+</resources>
